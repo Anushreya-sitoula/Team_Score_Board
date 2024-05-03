@@ -1,6 +1,14 @@
 // Unit 4 assignment 
 // Anushreya Sitoula 
 // 4.23.24
+/* Creation date: 4-18-2024
+   Teacher: Dr Tyson McMillan 
+   School: Tarrant County College
+   Purpose: To track the information of two sport teams playing. It keep track of 
+   information such as the scores of the teams, the teams' names, timeout and many more.
+   Skills learned/gained from the assignment: I gain a broader understanding of how
+   classes work.
+*/
 
 #include <iostream>
 #include <string> 
