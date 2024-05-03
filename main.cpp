@@ -1,7 +1,5 @@
-// Unit 4 assignment 
 // Anushreya Sitoula 
-// 4.23.24
-/* Creation date: 4-18-2024
+/* Creation date: 4-23-2024
    Teacher: Dr. Tyson McMillan 
    School: Tarrant County College
    Purpose: To track the information of two sport teams playing. It keep track of 
